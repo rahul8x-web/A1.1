@@ -1,0 +1,30 @@
+/* Your CSS goes here --------------------- */
+
+/* Add your CSS styling here */
+/* Override default styles for input elements */
+label, select, input, fieldset {
+    display: block;
+    margin-bottom: 10px;
+}
+
+/* Add more styling as needed */
+
+/* Position and style the output canvas */
+#output-canvas {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#output-image {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ccc;
+}
+
+/* Override footer styles */
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+
